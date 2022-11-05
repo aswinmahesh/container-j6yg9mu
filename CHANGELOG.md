@@ -1,3 +1,15 @@
+# v0.0.3 (Sat Nov 05 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Update index.html ([@aswinmahesh](https://github.com/aswinmahesh))
+
+#### Authors: 1
+
+- CAM ([@aswinmahesh](https://github.com/aswinmahesh))
+
+---
+
 # v0.0.2 (Sat Nov 05 2022)
 
 #### ⚠️ Pushed to `main`
