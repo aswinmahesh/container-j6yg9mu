@@ -1,0 +1,11 @@
+services:
+  app:
+    image: container-j6yg9mu
+    build:
+      context: ./src
+    ports:
+      - "5000:80"
+    volumes:
+      - type: bind
+        source: ./src
+        target: /usr/src/app
