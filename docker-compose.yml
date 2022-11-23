@@ -6,6 +6,4 @@ services:
     ports:
       - "80:80"
     volumes:
-      - type: bind
-        source: ./src
-        target: /usr/src/app
+      - ./src:/config
